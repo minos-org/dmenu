@@ -8,12 +8,21 @@
 
 ## Quick start
 
-### On Ubuntu (only LTS versions)
+### On Ubuntu (only LTS releases)
+
+1. Set up the minos archive:
 
    ```
    $ sudo add-apt-repository ppa:minos-archive/main
+   ```
+   
+2. Install:
+
+   ```   
    $ sudo apt-get update && sudo apt-get install dmenu
    ```
+
+3. Enjoy ☺!
 
 ### On other Linux distributions
 
